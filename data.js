@@ -1,13 +1,14 @@
 /* 大屏数据文件 —— 由「同步数据.py」自动生成，请勿手工编辑 */
 window.DASH_DATA = {
-  "_stamp": "2026-07-28T17:06:53",
+  "_stamp": "2026-07-28T17:25:20",
   "updated": "2026-07-28",
   "window": {
-    "start": "07.19",
-    "end": "08.12",
-    "day": 10,
-    "total": 25
+    "start": "07.20",
+    "end": "08.07",
+    "day": 9,
+    "total": 19
   },
+  "todayIdx": 9,
   "kpi": {
     "total": 751,
     "today": 1,
